@@ -62,10 +62,10 @@ ten the answer key states. Drill tracks take their items from the page that cite
 - **Delivery:** each item twice, 2-second gap
 - **Say:** خَ · حَ · جَ · ثَ · بَ · تَ · اَ
 
-### C02-T03 — page drill
+### C02-T03 — the join
 - **File:** `A1.1-C02-T03.mp3`
 - **Book page:** chapter 2, page 5
-- **Delivery:** as the page instructs
+- **Delivery:** two letters carried in one breath — no gap
 - **Say:** ا · ج · جـ · ـجـ · ـج · ح · حـ · ـحـ · ـح · خ · خـ · ـخـ · ـخ · حَجَ · خَبَ · جَثَ · بَخَ
 
 ### C02-T04 — listening / tick sheet
@@ -220,10 +220,10 @@ ten the answer key states. Drill tracks take their items from the page that cite
 
 ## Chapter 9
 
-### C09-T01 — syllable drill
+### C09-T01 — the join
 - **File:** `A1.1-C09-T01.mp3`
 - **Book page:** chapter 9, page 4
-- **Delivery:** each item twice, 2-second gap
+- **Delivery:** two letters carried in one breath — no gap
 - **Say:** و · ب · بُ · ت · تُ · ق · قُ · ل · لُ · بِ · بَ · قِ · قَ · تِ · تَ · لِ · لَ
 
 ### C09-T02 — page drill
